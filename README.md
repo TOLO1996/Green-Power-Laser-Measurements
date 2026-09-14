@@ -32,3 +32,8 @@ Full results can be found in the attached odt file. Charts below:
 
 <img width="489" height="313" alt="image" src="Optical_Power_vs_temperature_200mW.png" />
 <img width="489" height="313" alt="image" src="Temperature_vs_time_200mW.png" />
+
+## Results description
+
+
+It is evident that the optical output power depends heavily on temperature. A 10-degree rise causes a power drop of nearly 50%. Since both diode versions share the same housing, this issue is particularly pronounced in the 200 mW version, where a 50% power drop occurred after just 80 seconds of continuous operation, compared to 240 seconds for the 100 mW version (although the latter experienced a 40% drop). This highlights the need for temperature stabilization. Consequently, for subsequent measurements, I used an additional fan to maintain a relatively constant temperature of 25°C.
