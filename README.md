@@ -23,4 +23,12 @@ temperature, and optical power of the given diode. The test setup is shown below
 
 ## Results
 Full results can be found in the attached odt file. Charts below:
+## 100mW Version
 
+<img width="489" height="313" alt="image" src="Optical_Power_vs_temperature_100mW.png" />
+<img width="489" height="313" alt="image" src="Temperature_vs_time_100mW.png" />
+
+## 200mW Version
+
+<img width="489" height="313" alt="image" src="Optical_Power_vs_temperature_200mW.png" />
+<img width="489" height="313" alt="image" src="Temperature_vs_time_200mW.png" />
